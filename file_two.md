@@ -2,16 +2,31 @@
 
 ### What are the following commands
 
-> cd
+```
+cd
+```
 
-> ls
+```
+ls
+```
 
-> pwd
+```
+pwd
+```
 
-> mkdir
+```
+mkdir
+```
 
-> touch
+```
+touch
+```
 
-> vi
+```
+vi
+```
 
-> tree # may need installed before using
+```
+tree # may need installed before using
+```
+
