@@ -1,29 +1,30 @@
 # What Do You Know About The Terminal
 
 ### What are the following commands
+put the definitions on the line bellow each command
 
 ```
-cd
-```
-
-```
-ls
+cd 
 ```
 
 ```
-pwd
+ls 
 ```
 
 ```
-mkdir
+pwd 
 ```
 
 ```
-touch
+mkdir 
 ```
 
 ```
-vi
+touch 
+```
+
+```
+vi 
 ```
 
 ```
